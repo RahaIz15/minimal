@@ -8,4 +8,4 @@ Extensive Exploratory Data Analysis (EDA) on Taxi trip data to uncover patterns 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RahaIz15/EploratoryDataAnlysisForTaxiRides)
 
-<center><img src="images/taxi_ride_eda.jpg"/></center>
+<center><img src="assets/img/taxi_ride_eda.PNG"/></center>
