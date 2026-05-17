@@ -1,4 +1,4 @@
-# Applied An Agnetic AI Portfolio
+# Applied And Agnetic AI Portfolio
 ---
 ## Machine learning
 
